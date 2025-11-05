@@ -34,3 +34,11 @@ Naslovi se u Markdown-u pišu sa #,##,###
 ### Slika
 
 ![Alt Tekst za Tux](static/Tux.png)
+
+```python
+a = 10
+b = 20
+print(a+b)
+```
+
+Idi na [Yotutube](https://www.youtube.com/)
