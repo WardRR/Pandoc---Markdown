@@ -1,4 +1,4 @@
-# Pandoc i Markdown
+#  🙌Pandoc i Markdown👌
 
 Ovaj projekt je za sve koji žele znati više o Pandocu i Markdownu.
 
