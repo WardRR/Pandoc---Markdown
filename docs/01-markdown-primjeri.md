@@ -33,4 +33,4 @@ Naslovi se u Markdown-u pišu sa #,##,###
 
 ### Slika
 
-![Alt Tekst za Tux](images/tux.png)
+![Alt Tekst za Tux](static/Tux.png)
