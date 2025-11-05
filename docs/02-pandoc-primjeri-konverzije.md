@@ -26,7 +26,7 @@ Pretvara Markdown datoteku u PDF.
 pandoc dokument.md -o dokument.docx
 ```
 
-Pretvara Markdown datoteku u Word (.docx).
+Pretvara Markdown datoteku u Word dokument.
 
 ### 4) .md → .txt
 
